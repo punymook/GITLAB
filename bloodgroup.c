@@ -44,5 +44,6 @@ void main()
     printf("\nContinue (YES for Yes)? ");
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
-  printf("Goodbye\n");
+  //printf("Goodbye\n");
+  printf("Sayonara is Japanese goodbye\n");
 }
