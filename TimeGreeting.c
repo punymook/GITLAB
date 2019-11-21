@@ -44,6 +44,7 @@ void main()
                  minutes);
     printf("Continue (Y/N)?"); scanf("%c", &answer); 
   } while (answer == 'Y'); 
-  printf("Good Bye!"); 
+  //printf("Good Bye!");
+  printf("See you again yesterday, เจอปืนครับผม!"); 
   scanf("%c", &answer); 
 }
